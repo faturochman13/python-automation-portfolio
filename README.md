@@ -21,7 +21,7 @@ typed records, retry/backoff, timeouts, structured logging, a CLI, and a README.
 - **Web scraping** → structured data (CSV / Excel / Google Sheets)
 - **API integration & glue** (Gmail, Sheets, Slack, Notion, REST, webhooks)
 - **Automation bots** (login, form-fill, scheduled jobs) with error handling + logging
-- **AI-powered automation** — wiring LLMs (OpenAI / Claude) for smart parsing & decisions
+- **LLM / AI integration** — wiring language models into your workflow for smart parsing & decisions
 
 ## Run any project
 

@@ -45,5 +45,5 @@ Sample output (`books.csv`):
 ## What I can build for you
 
 This same foundation extends to: **API integrations** (Gmail, Sheets, Slack, REST),
-**login-based automation bots**, **scheduled jobs**, and **AI-assisted parsing**
-(OpenAI / Claude). Message me with your task and I'll scope it precisely.
+**login-based automation bots**, **scheduled jobs**, and **LLM-assisted parsing**.
+Message me with your task and I'll scope it precisely.
