@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# generated demo outputs
+books.csv
+api_integration/rates.csv
+data_automation/contacts_clean.csv
+data_automation/report.txt
